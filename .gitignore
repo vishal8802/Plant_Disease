@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+.vscode
+Dataset
+GeneratedData
+predictor.ipynb
+image_to_array.ipynb
+cnn_model.pkl
+app.py
+test_folder
+temp
